@@ -1,5 +1,4 @@
 # SunVox
-My Sunvox config file
 
 This config file is important to me primarily because of the key bindings.
 
