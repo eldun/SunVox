@@ -2,6 +2,8 @@
 
 This config file is important to me primarily because of the key bindings.
 
+There may still be a couple mappings I missed or duplicated, but it's pretty much where I want it to be. The general idea is to make the navigation and operation as similar as possible to Vim. 'Shift' generally applies to shortcuts regarding the sequencer, and 'Control' generally applies to the modules & timeline.
+
 Information about the config file (straight from SunVox's developer!) can be found [here](https://www.warmplace.ru/forum/viewtopic.php?t=6389):
 
 > SunVox takes its configuration (including the key bindings) from the sunvox_config.ini file.
